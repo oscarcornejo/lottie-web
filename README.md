@@ -1,5 +1,5 @@
 # lottie-web
-Implementación de Lottie para web
+Implementación de Lottie para web.
 
 ## Setup HTML
 
