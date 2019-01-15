@@ -52,3 +52,12 @@ lottie.addEventListener('click', function() {
 
 ```
 
+## Créditos
+
+airbnb.io/lottie/
+
+## Recursos
+
+Animaciones: www.lottiefiles.com
+Getting Started: airbnb.io/lottie/web/web.html
+
